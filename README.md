@@ -21,7 +21,7 @@ Nothing in this repository is intended for active exploitation. All methods are 
 
 ## Why This Matters
 
-Most public research focuses on *results* (working exploits). This repository focuses on *process* — the thought patterns, edge case hunting, and allocator behavior mapping that leads to discovery.
+Most public research focuses on *results*. This repository focuses on *process* — the thought patterns, edge case hunting, and allocator behavior mapping that leads to discovery.
 
 Understanding ***how*** an attacker thinks is more valuable for defenders than a pre-written exploit.
 
@@ -66,16 +66,6 @@ Based on public bug reports and diff analysis:
 |-------------|--------|
 | 16.x - 17.4.1 | UAF candidates present |
 | 26.4+ | UAF candidates present |
-
----
-
-## Repository Structure
-├── methods/ # Research notes
-├── allocator/ # Zone allocator behavior
-├── poc/ # PoC structure
-└── offsets/ # Version offsets
-
-
 
 ---
 
