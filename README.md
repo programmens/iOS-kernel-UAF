@@ -3,8 +3,13 @@
 This repository documents **methods** for analyzing memory corruption primitives within the XNU kernel on iOS.
 
 **⚠️ No executable exploit code is provided in this repo.** This is a research framework for defensive security analysis and vulnerability research training.
-
 ---
+
+## Community
+
+Join our security research group: [t.me/iospentest](https://t.me/iospentest)
+---
+
 ![](poc.png)
 ## Research Scope
 
