@@ -1,1 +1,2 @@
-// commented out
+#!/bin/bash
+echo "commented out"
